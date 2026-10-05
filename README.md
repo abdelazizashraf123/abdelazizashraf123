@@ -3,8 +3,6 @@
 **AI researcher — computer vision, vision-language models, and medical imaging.**
 MSc in Artificial Intelligence @ Ozyegin University (thesis: deep learning for dental diagnostics) · researcher @ Deep-VIP Lab on vision foundation models (EU & TUBITAK funded projects).
 
-🔭 **Research focus:** reliable vision models for *rare findings* under *acquisition shift* — adaptation objectives, robust evaluation, and principled abstention.
-
 📄 15+ peer-reviewed publications (IEEE, Springer, Wiley, ACL) — [Google Scholar](https://scholar.google.com/citations?user=IcqqORIAAAAJ)
 
 📌 **Selected work**
