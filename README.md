@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Abdelaziz Hussein 👋
 
-<!--
-**abdelazizashraf123/abdelazizashraf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI researcher — computer vision, vision-language models, and medical imaging.**
+MSc in Artificial Intelligence @ Ozyegin University (thesis: deep learning for dental diagnostics) · researcher @ Deep-VIP Lab on vision foundation models under label scarcity and acquisition shift (EU & TUBITAK funded projects).
 
-Here are some ideas to get you started:
+🔭 **Research focus:** reliable vision models for *rare findings* under *acquisition shift* — adaptation objectives, robust evaluation, and principled abstention.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 15+ peer-reviewed publications (IEEE, Springer, Wiley, ACL) — [Google Scholar](https://scholar.google.com/citations?user=IcqqORIAAAAJ)
+
+📌 **Selected work**
+- 🦷 [dental-imaging-ai](https://github.com/abdelazizashraf123/dental-imaging-ai) — MSc thesis: attention-based multi-model fusion for panoramic radiographs (IEEE ISCC 2026, SIU 2025)
+- 🔗 [multimodal-image-matching](https://github.com/abdelazizashraf123/multimodal-image-matching-public) — adaptive matching across modalities (TUBITAK project)
+- 🦐 [shrimp-disease-classification](https://github.com/abdelazizashraf123/shrimp-disease-classification) — transfer learning for aquaculture diagnostics (IEEE 2022)
+
+📫 abdelaziz.ashraf.wahid@gmail.com · [LinkedIn](https://www.linkedin.com/in/abdelaziz-ashraf-hussein-2b34821b5/) · [ORCID](https://orcid.org/0000-0001-9532-2958)
